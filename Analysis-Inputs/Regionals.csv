@@ -1,0 +1,65 @@
+﻿RegionalYear,RegionalSite,HostSeed,Seed1UID,Seed2UID,Seed3UID,Seed4UID,WinnerUID,RunnerUpUID,OneWinUID,NoWinUID
+2024,Austin,1,2024.SB.Texas,2024.SB.Northwestern,2024.SB.SaintFrancis-PA,2024.SB.Siena,2024.SB.Texas,2024.SB.Northwestern,2024.SB.SaintFrancis-PA,2024.SB.Siena
+2024,Norman,2,2024.SB.Oklahoma,2024.SB.Oregon,2024.SB.BostonU,2024.SB.ClevelandSt,2024.SB.Oklahoma,2024.SB.Oregon,2024.SB.BostonU,2024.SB.ClevelandSt
+2024,Knoxville,3,2024.SB.Tennessee,2024.SB.Virginia,2024.SB.Miami-OH,2024.SB.Dayton,2024.SB.Tennessee,2024.SB.Virginia,2024.SB.Miami-OH,2024.SB.Dayton
+2024,Gainesville,4,2024.SB.Florida,2024.SB.SouthAlabama,2024.SB.FlaAtlantic,2024.SB.FGCU,2024.SB.Florida,2024.SB.SouthAlabama,2024.SB.FGCU,2024.SB.FlaAtlantic
+2024,Stillwater,5,2024.SB.OklahomaSt,2024.SB.Kentucky,2024.SB.Michigan,2024.SB.NorthernColo,2024.SB.OklahomaSt,2024.SB.Michigan,2024.SB.Kentucky,2024.SB.NorthernColo
+2024,Los Angeles,6,2024.SB.UCLA,2024.SB.VirginiaTech,2024.SB.SanDiegoSt,2024.SB.GrandCanyon,2024.SB.UCLA,2024.SB.VirginiaTech,2024.SB.GrandCanyon,2024.SB.SanDiegoSt
+2024,Columbia,7,2024.SB.Missouri,2024.SB.Washington,2024.SB.Indiana,2024.SB.Omaha,2024.SB.Missouri,2024.SB.Omaha,2024.SB.Washington,2024.SB.Indiana
+2024,Stanford,8,2024.SB.Stanford,2024.SB.MississippiSt,2024.SB.CalStFullerton,2024.SB.SaintMary's-CA,2024.SB.Stanford,2024.SB.CalStFullerton,2024.SB.MississippiSt,2024.SB.SaintMary's-CA
+2024,Baton Rouge,9,2024.SB.LSU,2024.SB.California,2024.SB.SouthernIll,2024.SB.JacksonSt,2024.SB.LSU,2024.SB.SouthernIll,2024.SB.California,2024.SB.JacksonSt
+2024,Durham,10,2024.SB.Duke,2024.SB.SouthCarolina,2024.SB.Utah,2024.SB.MorganSt,2024.SB.Duke,2024.SB.SouthCarolina,2024.SB.Utah,2024.SB.MorganSt
+2024,Athens,11,2024.SB.Georgia,2024.SB.Charlotte,2024.SB.Liberty,2024.SB.UNCW,2024.SB.Georgia,2024.SB.Liberty,2024.SB.Charlotte,2024.SB.UNCW
+2024,Fayetteville,12,2024.SB.Arkansas,2024.SB.Arizona,2024.SB.Villanova,2024.SB.SoutheastMoSt,2024.SB.Arizona,2024.SB.Villanova,2024.SB.Arkansas,2024.SB.SoutheastMoSt
+2024,Lafayette,13,2024.SB.Louisiana,2024.SB.Baylor,2024.SB.OleMiss,2024.SB.Princeton,2024.SB.Baylor,2024.SB.Louisiana,2024.SB.Princeton,2024.SB.OleMiss
+2024,Tuscaloosa,14,2024.SB.Alabama,2024.SB.Clemson,2024.SB.SoutheasternLa,2024.SB.USCUpstate,2024.SB.Alabama,2024.SB.SoutheasternLa,2024.SB.Clemson,2024.SB.USCUpstate
+2024,Tallahassee,15,2024.SB.FloridaSt,2024.SB.Auburn,2024.SB.UCF,2024.SB.Chattanooga,2024.SB.FloridaSt,2024.SB.Auburn,2024.SB.UCF,2024.SB.Chattanooga
+2024,Bryan-College Station,16,2024.SB.TexasA&M,2024.SB.TexasSt,2024.SB.PennSt,2024.SB.UAlbany,2024.SB.TexasA&M,2024.SB.TexasSt,2024.SB.PennSt,2024.SB.UAlbany
+2023,Norman,1,2023.SB.Oklahoma,2023.SB.California,2023.SB.Missouri,2023.SB.Hofstra,2023.SB.Oklahoma,2023.SB.California,2023.SB.Missouri,2023.SB.Hofstra
+2023,Los Angeles,2,2023.SB.UCLA,2023.SB.Liberty,2023.SB.SanDiegoSt,2023.SB.GrandCanyon,2023.SB.SanDiegoSt,2023.SB.Liberty,2023.SB.GrandCanyon,2023.SB.UCLA
+2023,Tallahassee,3,2023.SB.FloridaSt,2023.SB.SouthCarolina,2023.SB.UCF,2023.SB.Marist,2023.SB.FloridaSt,2023.SB.SouthCarolina,2023.SB.UCF,2023.SB.Marist
+2023,Knoxville,4,2023.SB.Tennessee,2023.SB.Indiana,2023.SB.Louisville,2023.SB.NorthernKy,2023.SB.Tennessee,2023.SB.Indiana,2023.SB.Louisville,2023.SB.NorthernKy
+2023,Tuscaloosa,5,2023.SB.Alabama,2023.SB.CentralArk,2023.SB.MiddleTenn,2023.SB.LIU,2023.SB.Alabama,2023.SB.MiddleTenn,2023.SB.CentralArk,2023.SB.LIU
+2023,Stillwater,6,2023.SB.OklahomaSt,2023.SB.WichitaSt,2023.SB.Nebraska,2023.SB.UMBC,2023.SB.OklahomaSt,2023.SB.Nebraska,2023.SB.WichitaSt,2023.SB.UMBC
+2023,Seattle,7,2023.SB.Washington,2023.SB.Minnesota,2023.SB.McNeese,2023.SB.NorthernColo,2023.SB.Washington,2023.SB.McNeese,2023.SB.Minnesota,2023.SB.NorthernColo
+2023,Durham,8,2023.SB.Duke,2023.SB.Charlotte,2023.SB.Campbell,2023.SB.GeorgeMason,2023.SB.Duke,2023.SB.Charlotte,2023.SB.Campbell,2023.SB.GeorgeMason
+2023,Stanford,9,2023.SB.Stanford,2023.SB.Florida,2023.SB.LMU-CA,2023.SB.LongBeachSt,2023.SB.Stanford,2023.SB.Florida,2023.SB.LMU-CA,2023.SB.LongBeachSt
+2023,Baton Rouge,10,2023.SB.LSU,2023.SB.Louisiana,2023.SB.Omaha,2023.SB.PrairieView,2023.SB.Louisiana,2023.SB.LSU,2023.SB.Omaha,2023.SB.PrairieView
+2023,Fayetteville,11,2023.SB.Arkansas,2023.SB.Oregon,2023.SB.NotreDame,2023.SB.Harvard,2023.SB.Oregon,2023.SB.Arkansas,2023.SB.NotreDame,2023.SB.Harvard
+2023,Evanston,12,2023.SB.Northwestern,2023.SB.Kentucky,2023.SB.Miami-OH,2023.SB.EasternIll,2023.SB.Northwestern,2023.SB.Miami-OH,2023.SB.Kentucky,2023.SB.EasternIll
+2023,Austin,13,2023.SB.Texas,2023.SB.TexasA&M,2023.SB.TexasSt,2023.SB.SetonHall,2023.SB.Texas,2023.SB.TexasA&M,2023.SB.TexasSt,2023.SB.SetonHall
+2023,Athens,14,2023.SB.Georgia,2023.SB.VirginiaTech,2023.SB.BostonU,2023.SB.NCCentral,2023.SB.Georgia,2023.SB.VirginiaTech,2023.SB.BostonU,2023.SB.NCCentral
+2023,Salt Lake City,15,2023.SB.Utah,2023.SB.Baylor,2023.SB.OleMiss,2023.SB.SouthernIll,2023.SB.Utah,2023.SB.OleMiss,2023.SB.Baylor,2023.SB.SouthernIll
+2023,Clemson,16,2023.SB.Clemson,2023.SB.Auburn,2023.SB.CalStFullerton,2023.SB.UNCGreensboro,2023.SB.Clemson,2023.SB.Auburn,2023.SB.CalStFullerton,2023.SB.UNCGreensboro
+2022,Norman,1,2022.SB.Oklahoma,2022.SB.TexasA&M,2022.SB.Minnesota,2022.SB.PrairieView,2022.SB.Oklahoma,2022.SB.TexasA&M,2022.SB.Minnesota,2022.SB.PrairieView
+2022,Tallahassee,2,2022.SB.FloridaSt,2022.SB.MississippiSt,2022.SB.SouthFla,2022.SB.Howard,2022.SB.MississippiSt,2022.SB.FloridaSt,2022.SB.SouthFla,2022.SB.Howard
+2022,Blacksburg,3,2022.SB.VirginiaTech,2022.SB.Kentucky,2022.SB.Miami-OH,2022.SB.SaintFrancis,2022.SB.VirginiaTech,2022.SB.Kentucky,2022.SB.Miami-OH,2022.SB.SaintFrancis
+2022,Fayetteville,4,2022.SB.Arkansas,2022.SB.Oregon,2022.SB.WichitaSt,2022.SB.Princeton,2022.SB.Arkansas,2022.SB.Oregon,2022.SB.WichitaSt,2022.SB.Princeton
+2022,Los Angeles,5,2022.SB.UCLA,2022.SB.OleMiss,2022.SB.LMU-CA,2022.SB.GrandCanyon,2022.SB.UCLA,2022.SB.OleMiss,2022.SB.LMU-CA,2022.SB.GrandCanyon
+2022,Tuscaloosa,6,2022.SB.Alabama,2022.SB.Stanford,2022.SB.MurraySt,2022.SB.Chattanooga,2022.SB.Stanford,2022.SB.Alabama,2022.SB.Chattanooga,2022.SB.MurraySt
+2022,Stillwater,7,2022.SB.OklahomaSt,2022.SB.Nebraska,2022.SB.NorthTexas,2022.SB.Fordham,2022.SB.OklahomaSt,2022.SB.NorthTexas,2022.SB.Nebraska,2022.SB.Fordham
+2022,Tempe,8,2022.SB.ArizonaSt,2022.SB.LSU,2022.SB.SanDiegoSt,2022.SB.CalStFullerton,2022.SB.ArizonaSt,2022.SB.SanDiegoSt,2022.SB.CalStFullerton,2022.SB.LSU
+2022,Evanston,9,2022.SB.Northwestern,2022.SB.NotreDame,2022.SB.McNeese,2022.SB.Oakland,2022.SB.Northwestern,2022.SB.McNeese,2022.SB.NotreDame,2022.SB.Oakland
+2022,Clemson,10,2022.SB.Clemson,2022.SB.Auburn,2022.SB.Louisiana,2022.SB.UNCW,2022.SB.Clemson,2022.SB.Louisiana,2022.SB.Auburn,2022.SB.UNCW
+2022,Knoxville,11,2022.SB.Tennessee,2022.SB.OhioSt,2022.SB.OregonSt,2022.SB.Campbell,2022.SB.OregonSt,2022.SB.Tennessee,2022.SB.OhioSt,2022.SB.Campbell
+2022,Durham,12,2022.SB.Duke,2022.SB.Georgia,2022.SB.Liberty,2022.SB.UMBC,2022.SB.Duke,2022.SB.Georgia,2022.SB.Liberty,2022.SB.UMBC
+2022,Seattle,13,2022.SB.Washington,2022.SB.Texas,2022.SB.WeberSt,2022.SB.Lehigh,2022.SB.Texas,2022.SB.Washington,2022.SB.Lehigh,2022.SB.WeberSt
+2022,Gainesville,14,2022.SB.Florida,2022.SB.GeorgiaTech,2022.SB.Wisconsin,2022.SB.Canisius,2022.SB.Florida,2022.SB.Wisconsin,2022.SB.GeorgiaTech,2022.SB.Canisius
+2022,Columbia,15,2022.SB.Missouri,2022.SB.Illinois,2022.SB.Arizona,2022.SB.MissouriSt,2022.SB.Arizona,2022.SB.Missouri,2022.SB.MissouriSt,2022.SB.Illinois
+2022,Orlando,16,2022.SB.UCF,2022.SB.Michigan,2022.SB.SouthDakotaSt,2022.SB.Villanova,2022.SB.UCF,2022.SB.Michigan,2022.SB.SouthDakotaSt,2022.SB.Villanova
+2021,Norman,1,2021.SB.Oklahoma,2021.SB.WichitaSt,2021.SB.TexasA&M,2021.SB.MorganSt,2021.SB.Oklahoma,2021.SB.WichitaSt,2021.SB.TexasA&M,2021.SB.MorganSt
+2021,Los Angeles,2,2021.SB.UCLA,2021.SB.Minnesota,2021.SB.FresnoSt,2021.SB.LongBeachSt,2021.SB.UCLA,2021.SB.Minnesota,2021.SB.FresnoSt,2021.SB.LongBeachSt
+2021,Tuscaloosa,3,2021.SB.Alabama,2021.SB.Clemson,2021.SB.Troy,2021.SB.AlabamaSt,2021.SB.Alabama,2021.SB.Clemson,2021.SB.Troy,2021.SB.AlabamaSt
+2021,Gainesville,4,2021.SB.Florida,2021.SB.Baylor,2021.SB.SouthAlabama,2021.SB.SouthFla,2021.SB.Florida,2021.SB.SouthFla,2021.SB.SouthAlabama,2021.SB.Baylor
+2021,Stillwater,5,2021.SB.OklahomaSt,2021.SB.MississippiSt,2021.SB.BostonU,2021.SB.Campbell,2021.SB.OklahomaSt,2021.SB.MississippiSt,2021.SB.Campbell,2021.SB.BostonU
+2021,Fayetteville,6,2021.SB.Arkansas,2021.SB.Stanford,2021.SB.SouthDakotaSt,2021.SB.Manhattan,2021.SB.Arkansas,2021.SB.Stanford,2021.SB.SouthDakotaSt,2021.SB.Manhattan
+2021,Baton Rouge,7,2021.SB.LSU,2021.SB.Louisiana,2021.SB.GeorgeWashington,2021.SB.McNeese,2021.SB.LSU,2021.SB.Louisiana,2021.SB.McNeese,2021.SB.GeorgeWashington
+2021,Columbia,8,2021.SB.Missouri,2021.SB.IowaSt,2021.SB.UNI,2021.SB.UIC,2021.SB.Missouri,2021.SB.IowaSt,2021.SB.UNI,2021.SB.UIC
+2021,Knoxville,9,2021.SB.Tennessee,2021.SB.Liberty,2021.SB.JamesMadison,2021.SB.EasternKy,2021.SB.JamesMadison,2021.SB.Liberty,2021.SB.Tennessee,2021.SB.EasternKy
+2021,Tallahassee,10,2021.SB.FloridaSt,2021.SB.Auburn,2021.SB.UCF,2021.SB.KennesawSt,2021.SB.FloridaSt,2021.SB.UCF,2021.SB.KennesawSt,2021.SB.Auburn
+2021,Tucson,11,2021.SB.Arizona,2021.SB.OleMiss,2021.SB.Villanova,2021.SB.UMBC,2021.SB.Arizona,2021.SB.OleMiss,2021.SB.Villanova,2021.SB.UMBC
+2021,Austin,12,2021.SB.Texas,2021.SB.Oregon,2021.SB.TexasSt,2021.SB.SaintFrancis-PA,2021.SB.Texas,2021.SB.Oregon,2021.SB.TexasSt,2021.SB.SaintFrancis-PA
+2021,Athens,13,2021.SB.Duke,2021.SB.Georgia,2021.SB.WesternKy,2021.SB.UNCGreensboro,2021.SB.Georgia,2021.SB.Duke,2021.SB.WesternKy,2021.SB.UNCGreensboro
+2021,Lexington,14,2021.SB.Kentucky,2021.SB.NotreDame,2021.SB.Miami-OH,2021.SB.Northwestern,2021.SB.Kentucky,2021.SB.NotreDame,2021.SB.Northwestern,2021.SB.Miami-OH
+2021,Tempe,15,2021.SB.ArizonaSt,2021.SB.VirginiaTech,2021.SB.BYU,2021.SB.SouthernIll,2021.SB.VirginiaTech,2021.SB.BYU,2021.SB.ArizonaSt,2021.SB.SouthernIll
+2021,Seattle,16,2021.SB.Washington,2021.SB.Michigan,2021.SB.SeattleU,2021.SB.PortlandSt,2021.SB.Washington,2021.SB.Michigan,2021.SB.SeattleU,2021.SB.PortlandSt

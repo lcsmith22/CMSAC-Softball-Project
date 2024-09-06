@@ -1,0 +1,297 @@
+,Year,Team,Conference,UID,YearTeamNumbers
+0,2024,Oklahoma,Big 12,2024.SB.Oklahoma,571946
+1,2024,Boston U.,Patriot,2024.SB.BostonU,572306
+2,2024,Duke,ACC,2024.SB.Duke,572203
+3,2024,Texas,Big 12,2024.SB.Texas,572076
+4,2024,Miami-OH,MAC,2024.SB.Miami-OH,572480
+5,2024,Eastern Ky.,ASUN,2024.SB.EasternKy,572183
+6,2024,Oklahoma St.,Big 12,2024.SB.OklahomaSt,571945
+7,2024,Southern Ill.,MVC,2024.SB.SouthernIll,572032
+8,2024,Grand Canyon,WAC,2024.SB.GrandCanyon,572227
+9,2024,Tennessee,SEC,2024.SB.Tennessee,572065
+10,2024,Florida,SEC,2024.SB.Florida,572349
+11,2024,UCLA,Pac-12,2024.SB.UCLA,572201
+12,2024,Southeastern La.,Southland,2024.SB.SoutheasternLa,572030
+13,2024,Texas St.,Sun Belt,2024.SB.TexasSt,572044
+14,2024,Stanford,Pac-12,2024.SB.Stanford,572047
+15,2024,Texas A&M,SEC,2024.SB.TexasA&M,572069
+16,2024,Saint Francis-PA,NEC,2024.SB.SaintFrancis-PA,571987
+17,2024,Florida St.,ACC,2024.SB.FloridaSt,572197
+18,2024,Omaha,Summit League,2024.SB.Omaha,572521
+19,2024,Virginia Tech,ACC,2024.SB.VirginiaTech,572101
+20,2024,Delaware,CAA,2024.SB.Delaware,572167
+21,2024,Northwestern,Big Ten,2024.SB.Northwestern,571934
+22,2024,Missouri,SEC,2024.SB.Missouri,572496
+23,2024,Chattanooga,SoCon,2024.SB.Chattanooga,572063
+24,2024,LSU,SEC,2024.SB.LSU,572444
+25,2024,Fla. Atlantic,AAC,2024.SB.FlaAtlantic,572193
+26,2024,Howard,MEAC,2024.SB.Howard,572390
+27,2024,Michigan,Big Ten,2024.SB.Michigan,572484
+28,2024,Louisiana,Sun Belt,2024.SB.Louisiana,572046
+29,2024,UAlbany,America East,2024.SB.UAlbany,572273
+30,2024,Eastern Ill.,OVC,2024.SB.EasternIll,572180
+31,2024,Nevada,Mountain West,2024.SB.Nevada,572525
+32,2024,Georgia,SEC,2024.SB.Georgia,572369
+33,2024,Charlotte,AAC,2024.SB.Charlotte,572513
+34,2024,Washington,Pac-12,2024.SB.Washington,572107
+35,2024,Youngstown St.,Horizon,2024.SB.YoungstownSt,572217
+36,2024,Stony Brook,CAA,2024.SB.StonyBrook,572054
+37,2024,Arkansas,SEC,2024.SB.Arkansas,572284
+38,2024,Cal St. Fullerton,Big West,2024.SB.CalStFullerton,572331
+39,2024,Arizona,Pac-12,2024.SB.Arizona,572282
+40,2024,Indiana,Big Ten,2024.SB.Indiana,572404
+41,2024,McNeese,Southland,2024.SB.McNeese,572474
+42,2024,East Carolina,AAC,2024.SB.EastCarolina,572176
+43,2024,Bryant,America East,2024.SB.Bryant,572316
+44,2024,UIW,Southland,2024.SB.UIW,572244
+45,2024,Alabama,SEC,2024.SB.Alabama,572269
+46,2024,California,Pac-12,2024.SB.California,572124
+47,2024,UNI,MVC,2024.SB.UNI,571927
+48,2024,Marist,MAAC,2024.SB.Marist,572460
+49,2024,Clemson,ACC,2024.SB.Clemson,572342
+50,2024,North Ala.,ASUN,2024.SB.NorthAla,572346
+51,2024,North Florida,ASUN,2024.SB.NorthFlorida,572242
+52,2024,Binghamton,America East,2024.SB.Binghamton,572300
+53,2024,FGCU,ASUN,2024.SB.FGCU,572257
+54,2024,Morgan St.,MEAC,2024.SB.MorganSt,572504
+55,2024,Penn St.,Big Ten,2024.SB.PennSt,571954
+56,2024,Campbell,CAA,2024.SB.Campbell,572128
+57,2024,Fresno St.,Mountain West,2024.SB.FresnoSt,572329
+58,2024,Jackson St.,SWAC,2024.SB.JacksonSt,572416
+59,2024,Mississippi St.,SEC,2024.SB.MississippiSt,572490
+60,2024,Virginia,ACC,2024.SB.Virginia,572103
+61,2024,South Alabama,Sun Belt,2024.SB.SouthAlabama,572014
+62,2024,Princeton,Ivy League,2024.SB.Princeton,571964
+63,2024,Gardner-Webb,Big South,2024.SB.Gardner-Webb,572225
+64,2024,Cal Poly,Big West,2024.SB.CalPoly,572325
+65,2024,Creighton,Big East,2024.SB.Creighton,572154
+66,2024,Western Ky.,CUSA,2024.SB.WesternKy,572117
+67,2024,UNLV,Mountain West,2024.SB.UNLV,572523
+68,2024,Coastal Carolina,Sun Belt,2024.SB.CoastalCarolina,572140
+69,2024,Lehigh,Patriot,2024.SB.Lehigh,572435
+70,2024,Utah,Pac-12,2024.SB.Utah,572095
+71,2024,Harvard,Ivy League,2024.SB.Harvard,572377
+72,2024,Dayton,Atlantic 10,2024.SB.Dayton,572159
+73,2024,Baylor,Big 12,2024.SB.Baylor,572294
+74,2024,Boise St.,Mountain West,2024.SB.BoiseSt,572302
+75,2024,Ohio St.,Big Ten,2024.SB.OhioSt,571941
+76,2024,San Diego St.,Mountain West,2024.SB.SanDiegoSt,572003
+77,2024,South Fla.,AAC,2024.SB.SouthFla,572025
+78,2024,Troy,Sun Belt,2024.SB.Troy,572087
+79,2024,Prairie View,SWAC,2024.SB.PrairieView,571962
+80,2024,LIU,NEC,2024.SB.LIU,572440
+81,2024,Liberty,CUSA,2024.SB.Liberty,572438
+82,2024,South Carolina,SEC,2024.SB.SouthCarolina,572018
+83,2024,Rutgers,Big Ten,2024.SB.Rutgers,571979
+84,2024,Siena,MAAC,2024.SB.Siena,572012
+85,2024,South Dakota St.,Summit League,2024.SB.SouthDakotaSt,572020
+86,2024,Belmont,MVC,2024.SB.Belmont,572250
+87,2024,North Carolina,ACC,2024.SB.NorthCarolina,572510
+88,2024,Central Conn. St.,NEC,2024.SB.CentralConnSt,572131
+89,2024,Louisiana Tech,CUSA,2024.SB.LouisianaTech,572446
+90,2024,UNCW,CAA,2024.SB.UNCW,572517
+91,2024,Ga. Southern,Sun Belt,2024.SB.GaSouthern,572362
+92,2024,Oregon,Pac-12,2024.SB.Oregon,571950
+93,2024,James Madison,Sun Belt,2024.SB.JamesMadison,572423
+94,2024,Saint Louis,Atlantic 10,2024.SB.SaintLouis,571994
+95,2024,Sacramento St.,Big Sky,2024.SB.SacramentoSt,572337
+96,2024,Georgia Tech,ACC,2024.SB.GeorgiaTech,572367
+97,2024,Niagara,MAAC,2024.SB.Niagara,572531
+98,2024,Texas Tech,Big 12,2024.SB.TexasTech,572073
+99,2024,Villanova,Big East,2024.SB.Villanova,572098
+100,2024,Auburn,SEC,2024.SB.Auburn,572286
+101,2024,UT Martin,OVC,2024.SB.UTMartin,572067
+102,2024,BYU,Big 12,2024.SB.BYU,572312
+103,2024,North Texas,AAC,2024.SB.NorthTexas,571920
+104,2024,California Baptist,WAC,2024.SB.CaliforniaBaptist,572344
+105,2024,Oakland,Horizon,2024.SB.Oakland,571939
+106,2024,NC State,ACC,2024.SB.NCState,571914
+107,2024,Nebraska,Big Ten,2024.SB.Nebraska,572518
+108,2024,Santa Clara,WCC,2024.SB.SantaClara,572008
+109,2024,Tulsa,AAC,2024.SB.Tulsa,572089
+110,2024,USC Upstate,Big South,2024.SB.USCUpstate,572247
+111,2024,Florida A&M,SWAC,2024.SB.FloridaA&M,572192
+112,2024,Kentucky,SEC,2024.SB.Kentucky,572430
+113,2024,Ohio,MAC,2024.SB.Ohio,571943
+114,2024,UConn,Big East,2024.SB.UConn,572148
+115,2024,ULM,Sun Belt,2024.SB.ULM,571922
+116,2024,Wichita St.,AAC,2024.SB.WichitaSt,572121
+117,2024,UNC Greensboro,SoCon,2024.SB.UNCGreensboro,572515
+118,2024,Boston College,ACC,2024.SB.BostonCollege,572303
+119,2024,Saint Mary's-CA,WCC,2024.SB.SaintMary's-CA,571996
+120,2024,UCF,Big 12,2024.SB.UCF,572133
+121,2024,Colorado St.,Mountain West,2024.SB.ColoradoSt,572144
+122,2024,UTEP,CUSA,2024.SB.UTEP,572078
+123,2024,Northern Ky.,Horizon,2024.SB.NorthernKy,571929
+124,2024,Western Mich.,MAC,2024.SB.WesternMich,572119
+125,2024,Syracuse,ACC,2024.SB.Syracuse,572056
+126,2024,Loyola Chicago,Atlantic 10,2024.SB.LoyolaChicago,572455
+127,2024,New Mexico St.,CUSA,2024.SB.NewMexicoSt,572527
+128,2024,Nicholls,Southland,2024.SB.Nicholls,572533
+129,2024,Notre Dame,ACC,2024.SB.NotreDame,571936
+130,2024,Seton Hall,Big East,2024.SB.SetonHall,572010
+131,2024,Ole Miss,SEC,2024.SB.OleMiss,572494
+132,2024,St. John's-NY,Big East,2024.SB.StJohn's-NY,571989
+133,2024,Kent St.,MAC,2024.SB.KentSt,572428
+134,2024,Toledo,MAC,2024.SB.Toledo,572082
+135,2024,LMU-CA,WCC,2024.SB.LMU-CA,572453
+136,2024,Minnesota,Big Ten,2024.SB.Minnesota,572488
+137,2024,Kansas,Big 12,2024.SB.Kansas,572425
+138,2024,Texas Southern,SWAC,2024.SB.TexasSouthern,572072
+139,2024,Louisville,ACC,2024.SB.Louisville,572448
+140,2024,Southeast Mo. St.,OVC,2024.SB.SoutheastMoSt,572027
+141,2024,Bradley,MVC,2024.SB.Bradley,572310
+142,2024,Dartmouth,Ivy League,2024.SB.Dartmouth,572157
+143,2024,Canisius,MAAC,2024.SB.Canisius,572129
+144,2024,Coppin St.,MEAC,2024.SB.CoppinSt,572150
+145,2024,Radford,Big South,2024.SB.Radford,571972
+146,2024,Jacksonville,ASUN,2024.SB.Jacksonville,572421
+147,2024,Lamar University,Southland,2024.SB.LamarUniversity,572434
+148,2024,Tennessee St.,OVC,2024.SB.TennesseeSt,572059
+149,2024,George Washington,Atlantic 10,2024.SB.GeorgeWashington,572358
+150,2024,Northern Colo.,Big Sky,2024.SB.NorthernColo,571923
+151,2024,Ball St.,MAC,2024.SB.BallSt,572291
+152,2024,Alabama St.,SWAC,2024.SB.AlabamaSt,572266
+153,2024,Central Ark.,ASUN,2024.SB.CentralArk,572219
+154,2024,CSUN,Big West,2024.SB.CSUN,572335
+155,2024,Portland St.,Big Sky,2024.SB.PortlandSt,571960
+156,2024,Tennessee Tech,OVC,2024.SB.TennesseeTech,572060
+157,2024,Wofford,SoCon,2024.SB.Wofford,575356
+158,2024,Providence,Big East,2024.SB.Providence,571966
+159,2024,A&M-Corpus Christi,Southland,2024.SB.A&M-CorpusChristi,572253
+160,2024,Sacred Heart,NEC,2024.SB.SacredHeart,571982
+161,2024,Idaho St.,Big Sky,2024.SB.IdahoSt,572393
+162,2024,Purdue,Big Ten,2024.SB.Purdue,571969
+163,2024,Winthrop,Big South,2024.SB.Winthrop,572208
+164,2024,Marshall,Sun Belt,2024.SB.Marshall,572463
+165,2024,Utah Valley,WAC,2024.SB.UtahValley,572258
+166,2024,Drake,MVC,2024.SB.Drake,572171
+167,2024,Hofstra,CAA,2024.SB.Hofstra,572382
+168,2024,UMBC,America East,2024.SB.UMBC,572465
+169,2024,Fordham,Atlantic 10,2024.SB.Fordham,572352
+170,2024,Long Beach St.,Big West,2024.SB.LongBeachSt,572333
+171,2024,Charleston So.,Big South,2024.SB.CharlestonSo,572292
+172,2024,Houston Christian,Southland,2024.SB.HoustonChristian,572386
+173,2024,Cleveland St.,Horizon,2024.SB.ClevelandSt,572137
+174,2024,Houston,Big 12,2024.SB.Houston,572388
+175,2024,Robert Morris,Horizon,2024.SB.RobertMorris,571977
+176,2024,Rider,MAAC,2024.SB.Rider,571975
+177,2024,FDU,NEC,2024.SB.FDU,572189
+178,2024,Furman,SoCon,2024.SB.Furman,572354
+179,2024,Maryland,Big Ten,2024.SB.Maryland,572467
+180,2024,Murray St.,MVC,2024.SB.MurraySt,572508
+181,2024,Quinnipiac,MAAC,2024.SB.Quinnipiac,571970
+182,2024,Akron,MAC,2024.SB.Akron,572263
+183,2024,Austin Peay,ASUN,2024.SB.AustinPeay,572289
+184,2024,Butler,Big East,2024.SB.Butler,572323
+185,2024,Elon,CAA,2024.SB.Elon,572223
+186,2024,UAB,AAC,2024.SB.UAB,572271
+187,2024,Colgate,Patriot,2024.SB.Colgate,572142
+188,2024,Utah St.,Mountain West,2024.SB.UtahSt,572093
+189,2024,Weber St.,Big Sky,2024.SB.WeberSt,572111
+190,2024,Hawaii,Big West,2024.SB.Hawaii,572379
+191,2024,Yale,Ivy League,2024.SB.Yale,572215
+192,2024,Jacksonville St.,CUSA,2024.SB.JacksonvilleSt,572418
+193,2024,Mercer,SoCon,2024.SB.Mercer,572479
+194,2024,South Dakota,Summit League,2024.SB.SouthDakota,572023
+195,2024,Southern Miss.,Sun Belt,2024.SB.SouthernMiss,572036
+196,2024,Samford,SoCon,2024.SB.Samford,572001
+197,2024,Brown,Ivy League,2024.SB.Brown,572314
+198,2024,Illinois St.,MVC,2024.SB.IllinoisSt,572395
+199,2024,Kansas City,Summit League,2024.SB.KansasCity,572240
+200,2024,Saint Joseph's,Atlantic 10,2024.SB.SaintJoseph's,571991
+201,2024,FIU,CUSA,2024.SB.FIU,572195
+202,2024,Oregon St.,Pac-12,2024.SB.OregonSt,571948
+203,2024,Southern Utah,WAC,2024.SB.SouthernUtah,572039
+204,2024,UC Davis,Big West,2024.SB.UCDavis,572199
+205,2024,Seattle U,WAC,2024.SB.SeattleU,572234
+206,2024,UC Santa Barbara,Big West,2024.SB.UCSantaBarbara,572339
+207,2024,Bucknell,Patriot,2024.SB.Bucknell,572318
+208,2024,App State,Sun Belt,2024.SB.AppState,572278
+209,2024,Michigan St.,Big Ten,2024.SB.MichiganSt,572483
+210,2024,Towson,CAA,2024.SB.Towson,572084
+211,2024,UC Riverside,Big West,2024.SB.UCRiverside,572125
+212,2024,Illinois,Big Ten,2024.SB.Illinois,572396
+213,2024,Middle Tenn.,CUSA,2024.SB.MiddleTenn,572486
+214,2024,Wisconsin,Big Ten,2024.SB.Wisconsin,572212
+215,2024,UT Arlington,WAC,2024.SB.UTArlington,572075
+216,2024,Indiana St.,MVC,2024.SB.IndianaSt,572402
+217,2024,Sam Houston,CUSA,2024.SB.SamHouston,571999
+218,2024,San Jose St.,Mountain West,2024.SB.SanJoseSt,572007
+219,2024,Columbia,Ivy League,2024.SB.Columbia,572147
+220,2024,Arizona St.,Pac-12,2024.SB.ArizonaSt,572280
+221,2024,Iowa St.,Big 12,2024.SB.IowaSt,572411
+222,2024,Iowa,Big Ten,2024.SB.Iowa,572414
+223,2024,Ark.-Pine Bluff,SWAC,2024.SB.Ark-PineBluff,572236
+224,2024,Bethune-Cookman,SWAC,2024.SB.Bethune-Cookman,572297
+225,2024,George Mason,Atlantic 10,2024.SB.GeorgeMason,572356
+226,2024,Iona,MAAC,2024.SB.Iona,572409
+227,2024,Northwestern St.,Southland,2024.SB.NorthwesternSt,571932
+228,2024,Missouri St.,MVC,2024.SB.MissouriSt,572041
+229,2024,UMass Lowell,America East,2024.SB.UMassLowell,572450
+230,2024,Southern U.,SWAC,2024.SB.SouthernU,572038
+231,2024,Longwood,Big South,2024.SB.Longwood,572442
+232,2024,Massachusetts,Atlantic 10,2024.SB.Massachusetts,572472
+233,2024,Merrimack,NEC,2024.SB.Merrimack,572206
+234,2024,N.C. Central,MEAC,2024.SB.NCCentral,571912
+235,2024,Monmouth,CAA,2024.SB.Monmouth,572498
+236,2024,SIUE,OVC,2024.SB.SIUE,572034
+237,2024,UIC,MVC,2024.SB.UIC,572399
+238,2024,Pittsburgh,ACC,2024.SB.Pittsburgh,571958
+239,2024,NIU,MAC,2024.SB.NIU,571925
+240,2024,Central Mich.,MAC,2024.SB.CentralMich,572136
+241,2024,Montana,Big Sky,2024.SB.Montana,572500
+242,2024,Western Caro.,SoCon,2024.SB.WesternCaro,572113
+243,2024,Abilene Christian,WAC,2024.SB.AbileneChristian,572260
+244,2024,Buffalo,MAC,2024.SB.Buffalo,572321
+245,2024,Drexel,CAA,2024.SB.Drexel,572174
+246,2024,Delaware St.,MEAC,2024.SB.DelawareSt,572165
+247,2024,Hampton,CAA,2024.SB.Hampton,572373
+248,2024,San Diego,WCC,2024.SB.SanDiego,572005
+249,2024,Pacific,WCC,2024.SB.Pacific,571952
+250,2024,Saint Peter's,MAAC,2024.SB.SaintPeter's,571997
+251,2024,Western Ill.,OVC,2024.SB.WesternIll,572115
+252,2024,North Dakota St.,Summit League,2024.SB.NorthDakotaSt,571916
+253,2024,Grambling,SWAC,2024.SB.Grambling,572370
+254,2024,Evansville,MVC,2024.SB.Evansville,572185
+255,2024,Lipscomb,ASUN,2024.SB.Lipscomb,572255
+256,2024,Mount St. Mary's,MAAC,2024.SB.MountStMary's,572506
+257,2024,Kennesaw St.,ASUN,2024.SB.KennesawSt,572230
+258,2024,Morehead St.,OVC,2024.SB.MoreheadSt,572502
+259,2024,Fairfield,MAAC,2024.SB.Fairfield,572187
+260,2024,Georgetown,Big East,2024.SB.Georgetown,572359
+261,2024,Purdue Fort Wayne,Horizon,2024.SB.PurdueFortWayne,572407
+262,2024,New Mexico,Mountain West,2024.SB.NewMexico,572529
+263,2024,Presbyterian,Big South,2024.SB.Presbyterian,572232
+264,2024,SFA,WAC,2024.SB.SFA,572049
+265,2024,Rhode Island,Atlantic 10,2024.SB.RhodeIsland,571974
+266,2024,Stetson,ASUN,2024.SB.Stetson,572052
+267,2024,Holy Cross,Patriot,2024.SB.HolyCross,572384
+268,2024,South Carolina St.,MEAC,2024.SB.SouthCarolinaSt,572016
+269,2024,Penn,Ivy League,2024.SB.Penn,571956
+270,2024,Alcorn,SWAC,2024.SB.Alcorn,572276
+271,2024,Army West Point,Patriot,2024.SB.ArmyWestPoint,572091
+272,2024,UTSA,AAC,2024.SB.UTSA,572080
+273,2024,IU Indy,Horizon,2024.SB.IUIndy,572238
+274,2024,Manhattan,MAAC,2024.SB.Manhattan,572458
+275,2024,North Dakota,Summit League,2024.SB.NorthDakota,571918
+276,2024,N.C. A&T,CAA,2024.SB.NCA&T,572537
+277,2024,Alabama A&M,SWAC,2024.SB.AlabamaA&M,572264
+278,2024,UMES,MEAC,2024.SB.UMES,572470
+279,2024,ETSU,SoCon,2024.SB.ETSU,572178
+280,2024,Cornell,Ivy League,2024.SB.Cornell,572152
+281,2024,Wagner,NEC,2024.SB.Wagner,572105
+282,2024,Georgia St.,Sun Belt,2024.SB.GeorgiaSt,572364
+283,2024,Col. of Charleston,CAA,2024.SB.ColofCharleston,572221
+284,2024,DePaul,Big East,2024.SB.DePaul,572162
+285,2024,Green Bay,Horizon,2024.SB.GreenBay,572211
+286,2024,Valparaiso,MVC,2024.SB.Valparaiso,572097
+287,2024,Bowling Green,MAC,2024.SB.BowlingGreen,572308
+288,2024,Detroit Mercy,Horizon,2024.SB.DetroitMercy,572169
+289,2024,Memphis,AAC,2024.SB.Memphis,572477
+290,2024,Lafayette,Patriot,2024.SB.Lafayette,572432
+291,2024,Maine,America East,2024.SB.Maine,572457
+292,2024,CSU Bakersfield,Big West,2024.SB.CSUBakersfield,572327
+293,2024,St. Bonaventure,Atlantic 10,2024.SB.StBonaventure,571984
+294,2024,Norfolk St.,MEAC,2024.SB.NorfolkSt,572535
+295,2024,Mississippi Val.,SWAC,2024.SB.MississippiVal,572492

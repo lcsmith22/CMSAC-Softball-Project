@@ -1,0 +1,294 @@
+,Year,Team,Conference,UID,YearTeamNumbers
+0,2022,Oklahoma,Big 12,2022.SB.Oklahoma,532491
+1,2022,Florida St.,ACC,2022.SB.FloridaSt,532611
+2,2022,UCLA,Pac-12,2022.SB.UCLA,532613
+3,2022,USC Upstate,Big South,2022.SB.USCUpstate,532634
+4,2022,Virginia Tech,ACC,2022.SB.VirginiaTech,532567
+5,2022,Arkansas,SEC,2022.SB.Arkansas,532651
+6,2022,BYU,WCC,2022.SB.BYU,532664
+7,2022,Duke,ACC,2022.SB.Duke,532614
+8,2022,Boise St.,Mountain West,2022.SB.BoiseSt,532659
+9,2022,Arizona St.,Pac-12,2022.SB.ArizonaSt,532649
+10,2022,Louisiana,Sun Belt,2022.SB.Louisiana,532540
+11,2022,UCF,AAC,2022.SB.UCF,532582
+12,2022,Northwestern,Big Ten,2022.SB.Northwestern,532485
+13,2022,Oklahoma St.,Big 12,2022.SB.OklahomaSt,532490
+14,2022,Alabama,SEC,2022.SB.Alabama,532644
+15,2022,Notre Dame,ACC,2022.SB.NotreDame,532486
+16,2022,Weber St.,Big Sky,2022.SB.WeberSt,532571
+17,2022,South Dakota St.,Summit League,2022.SB.SouthDakotaSt,532528
+18,2022,Western Ky.,CUSA,2022.SB.WesternKy,532574
+19,2022,UNLV,Mountain West,2022.SB.UNLV,532763
+20,2022,South Fla.,AAC,2022.SB.SouthFla,532530
+21,2022,UMBC,America East,2022.SB.UMBC,532735
+22,2022,Florida,SEC,2022.SB.Florida,532681
+23,2022,Nebraska,Big Ten,2022.SB.Nebraska,532761
+24,2022,Southeastern La.,Southland,2022.SB.SoutheasternLa,532532
+25,2022,Clemson,ACC,2022.SB.Clemson,532678
+26,2022,North Florida,ASUN,2022.SB.NorthFlorida,532632
+27,2022,Liberty,ASUN,2022.SB.Liberty,532722
+28,2022,Grand Canyon,WAC,2022.SB.GrandCanyon,532625
+29,2022,San Diego St.,Mountain West,2022.SB.SanDiegoSt,532519
+30,2022,Presbyterian,Big South,2022.SB.Presbyterian,532627
+31,2022,Georgia,SEC,2022.SB.Georgia,532690
+32,2022,Auburn,SEC,2022.SB.Auburn,532652
+33,2022,Boston U.,Patriot,2022.SB.BostonU,532661
+34,2022,Miami-OH,MAC,2022.SB.Miami-OH,532742
+35,2022,North Texas,CUSA,2022.SB.NorthTexas,532478
+36,2022,Omaha,Summit League,2022.SB.Omaha,532762
+37,2022,UNI,MVC,2022.SB.UNI,532482
+38,2022,Tennessee,SEC,2022.SB.Tennessee,532549
+39,2022,Washington,Pac-12,2022.SB.Washington,532570
+40,2022,Murray St.,OVC,2022.SB.MurraySt,532756
+41,2022,LMU-CA,WCC,2022.SB.LMU-CA,532729
+42,2022,UNC Greensboro,SoCon,2022.SB.UNCGreensboro,532759
+43,2022,Ole Miss,SEC,2022.SB.OleMiss,532749
+44,2022,UNCW,CAA,2022.SB.UNCW,532760
+45,2022,George Washington,Atlantic 10,2022.SB.GeorgeWashington,532685
+46,2022,Ohio St.,Big Ten,2022.SB.OhioSt,532488
+47,2022,Texas,Big 12,2022.SB.Texas,532555
+48,2022,Georgia Tech,ACC,2022.SB.GeorgiaTech,532689
+49,2022,Michigan,Big Ten,2022.SB.Michigan,532744
+50,2022,UConn,Big East,2022.SB.UConn,532589
+51,2022,Saint Francis,NEC,2022.SB.SaintFrancis,532511
+52,2022,Texas St.,Sun Belt,2022.SB.TexasSt,532539
+53,2022,Morgan St.,MEAC,2022.SB.MorganSt,532754
+54,2022,Louisiana Tech,CUSA,2022.SB.LouisianaTech,532726
+55,2022,Campbell,Big South,2022.SB.Campbell,532579
+56,2022,Kentucky,SEC,2022.SB.Kentucky,532717
+57,2022,Marshall,CUSA,2022.SB.Marshall,532734
+58,2022,Belmont,OVC,2022.SB.Belmont,532635
+59,2022,Stony Brook,America East,2022.SB.StonyBrook,532544
+60,2022,McNeese,Southland,2022.SB.McNeese,532739
+61,2022,Wichita St.,AAC,2022.SB.WichitaSt,532576
+62,2022,Butler,Big East,2022.SB.Butler,532669
+63,2022,Delaware,CAA,2022.SB.Delaware,532597
+64,2022,Samford,SoCon,2022.SB.Samford,532518
+65,2022,UT Martin,OVC,2022.SB.UTMartin,532550
+66,2022,Canisius,MAAC,2022.SB.Canisius,532580
+67,2022,Arizona,Pac-12,2022.SB.Arizona,532650
+68,2022,Oregon St.,Pac-12,2022.SB.OregonSt,532492
+69,2022,Stanford,Pac-12,2022.SB.Stanford,532541
+70,2022,Central Ark.,ASUN,2022.SB.CentralArk,532621
+71,2022,Oregon,Pac-12,2022.SB.Oregon,532493
+72,2022,Missouri,SEC,2022.SB.Missouri,532750
+73,2022,Cal St. Fullerton,Big West,2022.SB.CalStFullerton,532673
+74,2022,Bowling Green,MAC,2022.SB.BowlingGreen,532662
+75,2022,Portland St.,Big Sky,2022.SB.PortlandSt,532498
+76,2022,Princeton,Ivy League,2022.SB.Princeton,532500
+77,2022,Illinois,Big Ten,2022.SB.Illinois,532703
+78,2022,Lehigh,Patriot,2022.SB.Lehigh,532721
+79,2022,Oakland,Horizon,2022.SB.Oakland,532487
+80,2022,Charlotte,CUSA,2022.SB.Charlotte,532758
+81,2022,LSU,SEC,2022.SB.LSU,532725
+82,2022,Norfolk St.,MEAC,2022.SB.NorfolkSt,532769
+83,2022,Robert Morris,Horizon,2022.SB.RobertMorris,532507
+84,2022,Troy,Sun Belt,2022.SB.Troy,532560
+85,2022,UAlbany,America East,2022.SB.UAlbany,532646
+86,2022,Penn St.,Big Ten,2022.SB.PennSt,532495
+87,2022,Tennessee Tech,OVC,2022.SB.TennesseeTech,532547
+88,2022,NC State,ACC,2022.SB.NCState,532475
+89,2022,Wisconsin,Big Ten,2022.SB.Wisconsin,532618
+90,2022,Longwood,Big South,2022.SB.Longwood,532724
+91,2022,Southern Ill.,MVC,2022.SB.SouthernIll,532533
+92,2022,Missouri St.,MVC,2022.SB.MissouriSt,532538
+93,2022,UMass Lowell,America East,2022.SB.UMassLowell,532728
+94,2022,Siena,MAAC,2022.SB.Siena,532524
+95,2022,Mississippi St.,SEC,2022.SB.MississippiSt,532747
+96,2022,Elon,CAA,2022.SB.Elon,532623
+97,2022,Fordham,Atlantic 10,2022.SB.Fordham,532682
+98,2022,Baylor,Big 12,2022.SB.Baylor,532656
+99,2022,Seattle U,WAC,2022.SB.SeattleU,532628
+100,2022,Villanova,Big East,2022.SB.Villanova,532566
+101,2022,Youngstown St.,Horizon,2022.SB.YoungstownSt,532620
+102,2022,Long Beach St.,Big West,2022.SB.LongBeachSt,532674
+103,2022,Northwestern St.,Southland,2022.SB.NorthwesternSt,532484
+104,2022,Austin Peay,OVC,2022.SB.AustinPeay,532653
+105,2022,North Dakota St.,Summit League,2022.SB.NorthDakotaSt,532476
+106,2022,Texas Southern,SWAC,2022.SB.TexasSouthern,532552
+107,2022,Howard,MEAC,2022.SB.Howard,532700
+108,2022,Jacksonville St.,ASUN,2022.SB.JacksonvilleSt,532712
+109,2022,Maryland,Big Ten,2022.SB.Maryland,532736
+110,2022,Southern Miss.,CUSA,2022.SB.SouthernMiss,532535
+111,2022,Southeast Mo. St.,OVC,2022.SB.SoutheastMoSt,532531
+112,2022,Syracuse,ACC,2022.SB.Syracuse,532545
+113,2022,Indiana,Big Ten,2022.SB.Indiana,532706
+114,2022,Hawaii,Big West,2022.SB.Hawaii,532695
+115,2022,DePaul,Big East,2022.SB.DePaul,532595
+116,2022,Sacramento St.,Big Sky,2022.SB.SacramentoSt,532676
+117,2022,Providence,Big East,2022.SB.Providence,532501
+118,2022,South Alabama,Sun Belt,2022.SB.SouthAlabama,532525
+119,2022,Mount St. Mary's,NEC,2022.SB.MountStMary's,532755
+120,2022,SFA,WAC,2022.SB.SFA,532542
+121,2022,Fairfield,MAAC,2022.SB.Fairfield,532606
+122,2022,South Dakota,Summit League,2022.SB.SouthDakota,532529
+123,2022,Rider,MAAC,2022.SB.Rider,532506
+124,2022,App State,Sun Belt,2022.SB.AppState,532648
+125,2022,Fla. Atlantic,CUSA,2022.SB.FlaAtlantic,532609
+126,2022,Chattanooga,SoCon,2022.SB.Chattanooga,532548
+127,2022,Texas A&M,SEC,2022.SB.TexasA&M,532551
+128,2022,Harvard,Ivy League,2022.SB.Harvard,532694
+129,2022,Louisville,ACC,2022.SB.Louisville,532727
+130,2022,Virginia,ACC,2022.SB.Virginia,532568
+131,2022,Drexel,CAA,2022.SB.Drexel,532600
+132,2022,UAB,CUSA,2022.SB.UAB,532645
+133,2022,UC Riverside,Big West,2022.SB.UCRiverside,532578
+134,2022,Central Mich.,MAC,2022.SB.CentralMich,532583
+135,2022,Minnesota,Big Ten,2022.SB.Minnesota,532746
+136,2022,Iowa St.,Big 12,2022.SB.IowaSt,532709
+137,2022,California,Pac-12,2022.SB.California,532577
+138,2022,Utah St.,Mountain West,2022.SB.UtahSt,532563
+139,2022,Houston,AAC,2022.SB.Houston,532699
+140,2022,ULM,Sun Belt,2022.SB.ULM,532479
+141,2022,Utah,Pac-12,2022.SB.Utah,532564
+142,2022,Bradley,MVC,2022.SB.Bradley,532663
+143,2022,Green Bay,Horizon,2022.SB.GreenBay,532617
+144,2022,Saint Joseph's,Atlantic 10,2022.SB.SaintJoseph's,532513
+145,2022,James Madison,CAA,2022.SB.JamesMadison,532714
+146,2022,Charleston So.,Big South,2022.SB.CharlestonSo,532655
+147,2022,New Mexico,Mountain West,2022.SB.NewMexico,532766
+148,2022,Abilene Christian,WAC,2022.SB.AbileneChristian,532640
+149,2022,FDU,NEC,2022.SB.FDU,532607
+150,2022,Grambling,SWAC,2022.SB.Grambling,532691
+151,2022,Binghamton,America East,2022.SB.Binghamton,532658
+152,2022,Northern Ky.,Horizon,2022.SB.NorthernKy,532483
+153,2022,A&M-Corpus Christi,Southland,2022.SB.A&M-CorpusChristi,532636
+154,2022,Idaho St.,Big Sky,2022.SB.IdahoSt,532701
+155,2022,Indiana St.,MVC,2022.SB.IndianaSt,532705
+156,2022,Bethune-Cookman,SWAC,2022.SB.Bethune-Cookman,532657
+157,2022,George Mason,Atlantic 10,2022.SB.GeorgeMason,532684
+158,2022,Ohio,MAC,2022.SB.Ohio,532489
+159,2022,Buffalo,MAC,2022.SB.Buffalo,532668
+160,2022,Cleveland St.,Horizon,2022.SB.ClevelandSt,532584
+161,2022,Dayton,Atlantic 10,2022.SB.Dayton,532594
+162,2022,Evansville,MVC,2022.SB.Evansville,532605
+163,2022,Jackson St.,SWAC,2022.SB.JacksonSt,532711
+164,2022,Utah Valley,WAC,2022.SB.UtahValley,532639
+165,2022,Iona,MAAC,2022.SB.Iona,532708
+166,2022,Seton Hall,Big East,2022.SB.SetonHall,532523
+167,2022,South Carolina,SEC,2022.SB.SouthCarolina,532527
+168,2022,Coastal Carolina,Sun Belt,2022.SB.CoastalCarolina,532585
+169,2022,Illinois St.,MVC,2022.SB.IllinoisSt,532702
+170,2022,Michigan St.,Big Ten,2022.SB.MichiganSt,532743
+171,2022,LIU,NEC,2022.SB.LIU,532723
+172,2022,Eastern Ill.,OVC,2022.SB.EasternIll,532603
+173,2022,Marist,MAAC,2022.SB.Marist,532733
+174,2022,Rutgers,Big Ten,2022.SB.Rutgers,532508
+175,2022,Dartmouth,Ivy League,2022.SB.Dartmouth,532593
+176,2022,Kennesaw St.,ASUN,2022.SB.KennesawSt,532626
+177,2022,North Carolina,ACC,2022.SB.NorthCarolina,532757
+178,2022,Texas Tech,Big 12,2022.SB.TexasTech,532553
+179,2022,UT Arlington,Sun Belt,2022.SB.UTArlington,532554
+180,2022,CSUN,Big West,2022.SB.CSUN,532675
+181,2022,UC Davis,Big West,2022.SB.UCDavis,532612
+182,2022,Hofstra,CAA,2022.SB.Hofstra,532696
+183,2022,Alabama St.,SWAC,2022.SB.AlabamaSt,532643
+184,2022,Purdue,Big Ten,2022.SB.Purdue,532502
+185,2022,Northern Colo.,Big Sky,2022.SB.NorthernColo,532480
+186,2022,Saint Louis,Atlantic 10,2022.SB.SaintLouis,532514
+187,2022,San Jose St.,Mountain West,2022.SB.SanJoseSt,532521
+188,2022,Boston College,ACC,2022.SB.BostonCollege,532660
+189,2022,Montana,Big Sky,2022.SB.Montana,532752
+190,2022,Cornell,Ivy League,2022.SB.Cornell,532591
+191,2022,Drake,MVC,2022.SB.Drake,532599
+192,2022,Holy Cross,Patriot,2022.SB.HolyCross,532697
+193,2022,Colgate,Patriot,2022.SB.Colgate,532586
+194,2022,Kent St.,MAC,2022.SB.KentSt,532716
+195,2022,Ball St.,MAC,2022.SB.BallSt,532654
+196,2022,Santa Clara,WCC,2022.SB.SantaClara,532522
+197,2022,Western Mich.,MAC,2022.SB.WesternMich,532575
+198,2022,Iowa,Big Ten,2022.SB.Iowa,532710
+199,2022,Furman,SoCon,2022.SB.Furman,532683
+200,2022,Saint Peter's,MAAC,2022.SB.SaintPeter's,532516
+201,2022,Prairie View,SWAC,2022.SB.PrairieView,532499
+202,2022,Alabama A&M,SWAC,2022.SB.AlabamaA&M,532642
+203,2022,Cal Poly,Big West,2022.SB.CalPoly,532670
+204,2022,Houston Christian,Southland,2022.SB.HoustonChristian,532698
+205,2022,Radford,Big South,2022.SB.Radford,532504
+206,2022,Wagner,NEC,2022.SB.Wagner,532569
+207,2022,Colorado St.,Mountain West,2022.SB.ColoradoSt,532587
+208,2022,Brown,Ivy League,2022.SB.Brown,532665
+209,2022,Georgia St.,Sun Belt,2022.SB.GeorgiaSt,532688
+210,2022,Lipscomb,ASUN,2022.SB.Lipscomb,532637
+211,2022,FIU,CUSA,2022.SB.FIU,532610
+212,2022,NIU,MAC,2022.SB.NIU,532481
+213,2022,Tulsa,AAC,2022.SB.Tulsa,532561
+214,2022,Stetson,ASUN,2022.SB.Stetson,532543
+215,2022,UTSA,CUSA,2022.SB.UTSA,532557
+216,2022,Massachusetts,Atlantic 10,2022.SB.Massachusetts,532738
+217,2022,Army West Point,Patriot,2022.SB.ArmyWestPoint,532562
+218,2022,San Diego,WCC,2022.SB.SanDiego,532520
+219,2022,Florida A&M,SWAC,2022.SB.FloridaA&M,532608
+220,2022,Loyola Chicago,MVC,2022.SB.LoyolaChicago,532730
+221,2022,Akron,MAC,2022.SB.Akron,532641
+222,2022,Middle Tenn.,CUSA,2022.SB.MiddleTenn,532745
+223,2022,Western Caro.,SoCon,2022.SB.WesternCaro,532572
+224,2022,East Carolina,AAC,2022.SB.EastCarolina,532601
+225,2022,Kansas,Big 12,2022.SB.Kansas,532715
+226,2022,Bryant,NEC,2022.SB.Bryant,532666
+227,2022,Creighton,Big East,2022.SB.Creighton,532592
+228,2022,FGCU,ASUN,2022.SB.FGCU,532638
+229,2022,UMES,MEAC,2022.SB.UMES,532737
+230,2022,SIUE,OVC,2022.SB.SIUE,532534
+231,2022,Niagara,MAAC,2022.SB.Niagara,532767
+232,2022,Georgetown,Big East,2022.SB.Georgetown,532686
+233,2022,Hartford,America East,2022.SB.Hartford,532693
+234,2022,Fresno St.,Mountain West,2022.SB.FresnoSt,532672
+235,2022,Hampton,Big South,2022.SB.Hampton,532692
+236,2022,Pittsburgh,ACC,2022.SB.Pittsburgh,532497
+237,2022,Gardner-Webb,Big South,2022.SB.Gardner-Webb,532624
+238,2022,Saint Mary's-CA,WCC,2022.SB.SaintMary's-CA,532515
+239,2022,Alcorn,SWAC,2022.SB.Alcorn,532647
+240,2022,Winthrop,Big South,2022.SB.Winthrop,532616
+241,2022,Nevada,Mountain West,2022.SB.Nevada,532764
+242,2022,Jacksonville,ASUN,2022.SB.Jacksonville,532713
+243,2022,Yale,Ivy League,2022.SB.Yale,532619
+244,2022,Southern U.,SWAC,2022.SB.SouthernU,532536
+245,2022,Columbia,Ivy League,2022.SB.Columbia,532588
+246,2022,UTEP,CUSA,2022.SB.UTEP,532556
+247,2022,Towson,CAA,2022.SB.Towson,532559
+248,2022,Valparaiso,MVC,2022.SB.Valparaiso,532565
+249,2022,Mississippi Val.,SWAC,2022.SB.MississippiVal,532748
+250,2022,Memphis,AAC,2022.SB.Memphis,532740
+251,2022,UIW,Southland,2022.SB.UIW,532633
+252,2022,Quinnipiac,MAAC,2022.SB.Quinnipiac,532503
+253,2022,Manhattan,MAAC,2022.SB.Manhattan,532732
+254,2022,UIC,Horizon,2022.SB.UIC,532704
+255,2022,Col. of Charleston,CAA,2022.SB.ColofCharleston,532622
+256,2022,Mercer,SoCon,2022.SB.Mercer,532741
+257,2022,Penn,Ivy League,2022.SB.Penn,532496
+258,2022,Sam Houston,WAC,2022.SB.SamHouston,532517
+259,2022,Tennessee St.,OVC,2022.SB.TennesseeSt,532546
+260,2022,UC Santa Barbara,Big West,2022.SB.UCSantaBarbara,532677
+261,2022,Ga. Southern,Sun Belt,2022.SB.GaSouthern,532687
+262,2022,Kansas City,Summit League,2022.SB.KansasCity,532631
+263,2022,N.C. A&T,Big South,2022.SB.NCA&T,532770
+264,2022,Eastern Ky.,ASUN,2022.SB.EasternKy,532604
+265,2022,North Dakota,Summit League,2022.SB.NorthDakota,532477
+266,2022,St. John's-NY,Big East,2022.SB.StJohn's-NY,532512
+267,2022,New Mexico St.,WAC,2022.SB.NewMexicoSt,532765
+268,2022,N.C. Central,MEAC,2022.SB.NCCentral,532474
+269,2022,Pacific,WCC,2022.SB.Pacific,532494
+270,2022,Toledo,MAC,2022.SB.Toledo,532558
+271,2022,IU Indy,Horizon,2022.SB.IUIndy,532630
+272,2022,Nicholls,Southland,2022.SB.Nicholls,532768
+273,2022,Rhode Island,Atlantic 10,2022.SB.RhodeIsland,532505
+274,2022,Sacred Heart,NEC,2022.SB.SacredHeart,532509
+275,2022,Lamar University,WAC,2022.SB.LamarUniversity,532720
+276,2022,Monmouth,MAAC,2022.SB.Monmouth,532751
+277,2022,Lafayette,Patriot,2022.SB.Lafayette,532719
+278,2022,Morehead St.,OVC,2022.SB.MoreheadSt,532753
+279,2022,CSU Bakersfield,Big West,2022.SB.CSUBakersfield,532671
+280,2022,Coppin St.,MEAC,2022.SB.CoppinSt,532590
+281,2022,Maine,America East,2022.SB.Maine,532731
+282,2022,Western Ill.,Summit League,2022.SB.WesternIll,532573
+283,2022,St. Bonaventure,Atlantic 10,2022.SB.StBonaventure,532510
+284,2022,Central Conn. St.,NEC,2022.SB.CentralConnSt,532581
+285,2022,Bucknell,Patriot,2022.SB.Bucknell,532667
+286,2022,ETSU,SoCon,2022.SB.ETSU,532602
+287,2022,Purdue Fort Wayne,Horizon,2022.SB.PurdueFortWayne,532707
+288,2022,Detroit Mercy,Horizon,2022.SB.DetroitMercy,532598
+289,2022,Ark.-Pine Bluff,SWAC,2022.SB.Ark-PineBluff,532629
+290,2022,Delaware St.,MEAC,2022.SB.DelawareSt,532596
+291,2022,South Carolina St.,MEAC,2022.SB.SouthCarolinaSt,532526
+292,2022,Southern Utah,Big Sky,2022.SB.SouthernUtah,532537
